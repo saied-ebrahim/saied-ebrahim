@@ -13,6 +13,51 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=39FF14&center=true&vCenter=true&width=500&lines=Building+modern+web+apps;Full+stack+MERN+developer;Express.js+%7C+Next.js+%7C+MongoDB;Turning+ideas+into+products" />
 </p>
+<p align="center">
+  <img src="https://i.imgur.com/sgXwA3n.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/w3c1hDc.png" width="600px" />
+</p>
+
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=0ff" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ff00ff" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=0ff" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=ff4000" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=0ff" />
+
+</p>
+<div align="center">
+
+![profile visit](https://komarev.com/ghpvc/?username=saied-ebrahim&color=39FF14)
+[![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saied-ebrahim&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=39FF14&title_color=39FF14" width="420"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saied-ebrahim&layout=compact&theme=chartreuse-dark&hide_border=true" width="360"/>
+
+</p>
+</div>
+
+
+
+
+
+
+
+---------------------------
 <h1 align="center">
   <a href="https://github.com/saied-ebrahim">Saied Ebrahim</a>
 </h1>
@@ -139,4 +184,5 @@
 />
 
 </div>
+
 
