@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Saeedibrahem">
-    <h1 align="center" > Saeed Ebrahim</h1>
+  <a href="https://github.com/saied-ebrahim">
+    <h1 align="center" > Saied Ebrahim</h1>
   </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 <div align="center">
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/saeed-ebrahim-26b898371/" target="blank"><img width='40px' src="images/linkedin-brands.svg"/></a>
+    <a href="https://www.linkedin.com/in/saied-ebrahim/" target="blank"><img width='40px' src="images/linkedin-brands.svg"/></a>
     &nbsp;&nbsp; 
     <a href="https://leetcode.com/u/saeedebrahim/" target="blank"><img width='40px' src='images/leetcode-brands.svg'/></a>
     &nbsp;&nbsp;
@@ -54,7 +54,7 @@
 
 ### 🏆 Github trophies
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedibrahem&theme=onedark&no-frame=true&row=1" alt="SaeedEbrahim" /></a> </p></div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saied-ebrahim&theme=onedark&no-frame=true&row=1" alt="saied-ebrahim" /></a> </p></div>
 
 <br/>
 <hr>
@@ -130,4 +130,5 @@
 </p>
 
 </div>
+
 
