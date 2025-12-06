@@ -1,121 +1,109 @@
-<p align="center">
-  <a href="https://github.com/saied-ebrahim">
-    <h1 align="center" > Saied Ebrahim</h1>
-  </a>
+<h1 align="center">
+  <a href="https://github.com/saied-ebrahim">Saied Ebrahim</a>
+</h1>
 
 <br/>
-
 
 ### 🤓 Who am I? (Briefly):
 
-<!-- - 🔭 Fullstack developer at Intlaq -->
-
 - 🌱 I’m currently learning **Full Stack Development & Software Development**
-
 - 👯 I’m looking to collaborate with other developers
-
 - 💬 Ask me about **JavaScript and NodeJS**
+- 📫 Reach me at **saiedebrahim854@gmail.com**
+- 📄 Take a look at **My Portfolio** (Coming Soon)
 
-- 📫 How to reach me **saiedebrahim854@gmail.com**
+<br/>
+<hr>
 
-- 📄 Take a look at [ My Portfolio]()
+### 👨‍💻 Connect with me
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/saied-ebrahim/" target="_blank"><img width='40px' src="images/linkedin-brands.svg"/></a>
+    &nbsp;&nbsp;
+    <a href="https://leetcode.com/u/saeedebrahim/" target="_blank"><img width='40px' src='images/leetcode-brands.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/profile/saiedebrahim854" target="_blank"><img width='40px' src='images/hackerrank-brands.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://discord.com/users/1104531679839789157" target="_blank"><img width='40px' src='images/discord-brands.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/SSEe3aAA" target="_blank"><img width='40px' src='images/facebook-brands.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://x.com/tosca_tsmc" target="_blank"><img width='32px' src="images/x-twitter-brands.svg"></a>
+</div>
 
 <br/>
 
-<hr>
-
-    
-### 👨‍💻Connect with me
-
-<div align="center">
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/saied-ebrahim/" target="blank"><img width='40px' src="images/linkedin-brands.svg"/></a>
-    &nbsp;&nbsp; 
-    <a href="https://leetcode.com/u/saeedebrahim/" target="blank"><img width='40px' src='images/leetcode-brands.svg'/></a>
-    &nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/profile/saiedebrahim854" target="blank"><img width='40px' src='images/hackerrank-brands.svg'/></a>
-    &nbsp;&nbsp; 
-    <a href="https://discord.com/users/1104531679839789157" target="blank"><img width='40px' src='images/discord-brands.svg'/></a>
-    &nbsp;&nbsp;
-    <a href="https://www.facebook.com/SSEe3aAA" target="blank"><img width='40px' src='images/facebook-brands.svg'/></a>
-    &nbsp;&nbsp;
-    <a href="https://x.com/tosca_tsmc" target="blank"> <img width='32px' src="images/x-twitter-brands.svg"></a>
-</div>
 <p align='center'>
-    Interested in my work?
-    <a href="https://www.buymeacoffee.com/saeedebrahim" target="_blank" style= 'font-weight: bold; font-size:14px'>Buy Me A Coffe.
-</a>
+  Interested in my work?
+  <br/>
+  <a href="https://www.buymeacoffee.com/saeedebrahim" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="40" />
+  </a>
 </p>
 
-
-
 <br/>
 <hr>
 
-### 🏆 Github trophies
+### 🏆 Github Trophies
+
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saied-ebrahim&theme=onedark&no-frame=true&row=1" alt="saied-ebrahim" /></a> </p></div>
-
-<br/>
-<hr>
-
-
-
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
-<h4 align="left"> Skills and Languages </h4>
-<div align="left" >
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" /></a> 
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" /></a> 
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
-  &nbsp;&nbsp;
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" /></a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  &nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" /></a> 
-  &nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" /></a>
- </div>
- 
-<h4 align="left"> Utility tools  </h4>
-<div align="left" >
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=saied-ebrahim&theme=onedark&no-frame=true&row=1" />
 </div>
 
+<br/>
+<hr>
 
+<h3 align="left">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
+  Languages and Tools:
+</h3>
 
+### 🔧 Skills & Languages
+<div align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vue" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+</div>
 
-
-
-
-
-
-
-
+### 🛠️ Utility Tools
+<div align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=illustrator" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=photoshop" /></a>
+</div>
 
 <br/>
 <hr>
+
+### 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saied-ebrahim&theme=github-dark&hide_border=true" width="95%"/>
+</div>
+
+<br/>
+<hr>
+
+### 🔥 GitHub Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saied-ebrahim&theme=github-dark-blue&hide_border=true" width="70%"/>
+</div>
+
+<br/>
+<hr>
+
 ### 👦 Github Stats
 
 <div align="center">
@@ -136,8 +124,3 @@
 />
 
 </div>
-
-
-
-
-
