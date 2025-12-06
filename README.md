@@ -116,21 +116,27 @@
 
 <br/>
 <hr>
-
-### 👦 Github Stats:
+### 👦 Github Stats
 
 <div align="center">
 
-![profile visit](https://komarev.com/ghpvc/?username=saied-ebrahim) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
+![Profile Views](https://komarev.com/ghpvc/?username=saied-ebrahim)
+[![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=saied-ebrahim&show_icons=true&theme=github_dark" width="420" />
+<br/><br/>
 
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=saied-ebrahim&layout=compact&theme=github_dark" width="420" />
+<img 
+  src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=saied-ebrahim&show_icons=true&theme=github_dark&hide_border=true" 
+  width="48%" 
+/>
 
-</p>
+<img 
+  src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=saied-ebrahim&layout=compact&theme=github_dark&hide_border=true" 
+  width="48%" 
+/>
 
 </div>
+
 
 
 
