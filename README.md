@@ -1,4 +1,19 @@
 <h1 align="center">
+  <span style="color:#39FF14; text-shadow: 0 0 10px #39FF14;">
+    Saied Ebrahim
+  </span>
+</h1>
+
+<h3 align="center">
+  <span style="color:#0ff; text-shadow: 0 0 10px #0ff;">
+    Full-Stack Developer • MERN • Express.js • Next.js
+  </span>
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=39FF14&center=true&vCenter=true&width=500&lines=Building+modern+web+apps;Full+stack+MERN+developer;Express.js+%7C+Next.js+%7C+MongoDB;Turning+ideas+into+products" />
+</p>
+<h1 align="center">
   <a href="https://github.com/saied-ebrahim">Saied Ebrahim</a>
 </h1>
 
@@ -124,3 +139,4 @@
 />
 
 </div>
+
