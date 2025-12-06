@@ -124,12 +124,14 @@
 ![profile visit](https://komarev.com/ghpvc/?username=saied-ebrahim) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saied-ebrahim&show_icons=true&theme=github_dark" alt="my github stats" width="420" height="170"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saied-ebrahim&layout=compact&theme=github_dark&card_width=420&card_height=170&size_weight=0.5&count_weight=0.5" alt="language used" /> 
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=saied-ebrahim&show_icons=true&theme=github_dark" width="420" />
+
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=saied-ebrahim&layout=compact&theme=github_dark" width="420" />
 
 </p>
 
 </div>
+
 
 
 
